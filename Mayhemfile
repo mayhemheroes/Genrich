@@ -1,6 +1,6 @@
-project: rnshah9/genrich
+project: genrich
 target: genrich
 
 cmds:
-  - cmd: /repo/Genrich -t @@ -o out
+  - cmd: /repo/Genrich -t /test.bam -o /dev/null
     filepath: /test.bam
