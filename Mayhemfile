@@ -2,5 +2,4 @@ project: genrich
 target: genrich
 
 cmds:
-  - cmd: /repo/Genrich -t /test.bam -o /dev/null
-    filepath: /test.bam
+  - cmd: /Genrich -t @@ -o /dev/null
